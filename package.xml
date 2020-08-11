@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package>
-  <name>mapping</name>
+  <name>lab8_starter</name>
   <version>0.0.0</version>
   <description>The mapping package</description>
+  
+  <maintainer email="ee106a-student@todo.todo">ee106a-student</maintainer>
 
-  <author email="jtkirk@enterprise.fed">James T. Kirk</author>
-  <maintainer email="jtkirk@enterprise.fed">James T. Kirk</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>catkin</buildtool_depend>
