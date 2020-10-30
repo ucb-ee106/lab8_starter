@@ -18,6 +18,6 @@
 	<node pkg="stdr_robot" 
               type="robot_handler" 
               name="$(anon robot_spawn)" 
-              args="add $(find lab4_starter)/robots/simple_robot.yaml 1 2 0" />
+              args="add $(find lab8_starter)/robots/simple_robot.yaml 1 2 0" />
 
 </launch>

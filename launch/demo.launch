@@ -26,7 +26,7 @@
 
   <!-- Mapper node. -->
   <node name="mapper"
-        pkg="mapping"
+        pkg="lab8_starter"
         type="mapping_node.py"
         output="screen">
 
